@@ -17,11 +17,11 @@
     along with this program.  If not, see <http://www.gnu.org/licenses/>.
     */
 
-#ifndef HW_75_300_MKIV_CORE_H_
-#define HW_75_300_MKIV_CORE_H_
+#ifndef HW_OB_75_300_MKIV_CORE_H_
+#define HW_OB_75_300_MKIV_CORE_H_
 
-#ifdef HW75_300_REV_MKIV
-  #define HW_NAME					"75_300_MKIV"
+#ifdef HWOB_75_300_REV_MKIV
+  #define HW_NAME					"OB_75_300_MKIV"
 #else
   #error "Must define hardware type"
 #endif
@@ -286,6 +286,6 @@
 
 // HW-specific functions
 bool hw_sample_shutdown_button(void);
-float hw75_300_get_temp(void);
+float hwOB_75_300_get_temp(void);
 
-#endif /* HW_75_300_MKIV_CORE_H_ */
+#endif /* HW_OB_75_300_MKIV_CORE_H_ */
