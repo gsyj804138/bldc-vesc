@@ -286,6 +286,6 @@
 
 // HW-specific functions
 bool hw_sample_shutdown_button(void);
-float hwOB_75_300_get_temp(void);
+float hw75_300_get_temp(void);
 
 #endif /* HW_OB_75_300_MKIV_CORE_H_ */
