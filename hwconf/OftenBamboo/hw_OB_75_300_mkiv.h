@@ -17,11 +17,11 @@
     along with this program.  If not, see <http://www.gnu.org/licenses/>.
     */
 
-#ifndef HW_75_300_MKIV_H_
-#define HW_75_300_MKIV_H_
+#ifndef HW_OB_75_300_MKIV_H_
+#define HW_OB_75_300_MKIV_H_
 
-#define HW75_300_REV_MKIV
+#define HWOB_75_300_REV_MKIV
 
-#include "hw_75_300_mkiv_core.h"
+#include "hw_OB_75_300_mkiv_core.h"
 
-#endif /* HW_75_300_MKIV_H_ */
+#endif /* HW_OB_75_300_MKIV_H_ */
