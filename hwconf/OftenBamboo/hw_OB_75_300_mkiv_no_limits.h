@@ -17,11 +17,11 @@
     along with this program.  If not, see <http://www.gnu.org/licenses/>.
     */
 
-#ifndef HW_75_300_MKIV_NO_LIMITS_H_
-#define HW_75_300_MKIV_NO_LIMITS_H_
+#ifndef HW_OB_75_300_MKIV_NO_LIMITS_H_
+#define HW_OB_75_300_MKIV_NO_LIMITS_H_
 
 #define DISABLE_HW_LIMITS
 
-#include "hw_75_300_mkiv.h"
+#include "hw_OB_75_300_mkiv.h"
 
-#endif /* HW_75_300_MKIV_NO_LIMITS_H_ */
+#endif /* HW_OB_75_300_MKIV_NO_LIMITS_H_ */
