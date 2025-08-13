@@ -20,7 +20,7 @@
 #ifndef HW_OB_100_250_MKIII_CORE_H_
 #define HW_OB_100_250_MKIII_CORE_H_
 
-#ifdef HW100_250_MKIII
+#ifdef HWOB_100_250_MKIII
   #define HW_NAME					"OB_100_250_MKIII"
 #else
   #error "Must define hardware type"
